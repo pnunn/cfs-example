@@ -1,7 +1,8 @@
 This is based on the repo detailed below.
 
-Modified to show server side insterts and pulling images from thumbnail as large images from master.
+Modified to show server side inserts and pulling images from thumbnail as large images from master.
 
+All credit to @copleykj, @aldeed and @raix for getting it this far.
 
 # CollectionFS Demo
 
