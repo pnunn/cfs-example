@@ -1,3 +1,8 @@
+This is based on the repo detailed below.
+
+Modified to show server side insterts and pulling images from thumbnail as large images from master.
+
+
 # CollectionFS Demo
 
 Demo for the `devel` branch of CollectionFS. Updated 4/2/14 to reflect the latest changes to the API.
